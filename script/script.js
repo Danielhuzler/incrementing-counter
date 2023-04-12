@@ -19,5 +19,3 @@ counters.forEach(counter => {
 
     updateCounter()
 })
-Footer
-© 2023 GitHub, Inc.
